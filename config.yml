@@ -62,7 +62,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["hdhr.png"]
 
     profileMode:
         enabled: true
