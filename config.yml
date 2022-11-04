@@ -91,6 +91,8 @@ params:
           url: "https://ko-fi.com/jmir1"
         - name: Anilist
           url: "https://anilist.co/user/jmir"
+        - name: Youtube
+          url: "https://www.youtube.com/@jmir1"
         - name: Rss
           url: "index.xml"
 
