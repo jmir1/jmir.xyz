@@ -87,7 +87,8 @@ params:
           url: "https://github.com/jmir1"
         - name: "GitHub Sponsors"
           url: "https://github.com/sponsors/jmir1"
-        - name: "Ko-fi"
+        - name: "Kofi"
+          title: "Ko-fi"
           url: "https://ko-fi.com/jmir1"
         - name: AniList
           url: "https://anilist.co/user/jmir"
