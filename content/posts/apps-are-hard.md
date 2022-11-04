@@ -7,12 +7,12 @@ keywords: ["app", "tachiyomi"]
 description: "making an app is way too hard"
 ShowToc: true
 ---
-so a few days ago i had the brilliant idea of making a fork of [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) (a superb app for reading manga and comics etc.) 
+so a few days ago i had the brilliant idea of making a fork of [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) (a superb app for reading manga and comics etc.)
 and add anime/video watching capability to it.  
 so i started by copying and rewriting a buch of classes for the new anime functionality (this is also my first time using kotlin so that's cool)  
-after many many hours i finally got it to compile and not crash instantly when opening the app! wow! sadly, pretty much nothing is implemented yet, 
+after many many hours i finally got it to compile and not crash instantly when opening the app! wow! sadly, pretty much nothing is implemented yet,
 i only added a new tab at the bottom that doesn't do anything yet.  
-the best thing about tachiyomi are the source extensions though. you can download extensions for the app that are basically webscrapers of manga websites. 
+the best thing about tachiyomi are the source extensions though. you can download extensions for the app that are basically webscrapers of manga websites.
 those let you download and read what you want, from literally hundreds of websites to choose from!  
 so the next step was (i think) to make a new extension for an anime site (i am using my own ([2dgirls.tech](https://2dgirls.tech)) because it just works and is the simplest website ever.  
 i had to rewrite some stuff in the github action scripts (and i learned how to sign an apk!) and now i have my own repo of tachiyomi extensions!  

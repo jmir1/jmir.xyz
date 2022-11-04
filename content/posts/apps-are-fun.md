@@ -8,8 +8,8 @@ description: "making an app is actually quite fun"
 ShowToc: true
 ---
 so almost a month ago i wrote about my experience with creating a fork of [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) for anime.
-i made a lot of progress and the app is fully* functional now. * but with a lot of bugs and unimplemented features  
-it has been an awesome learning experience, even though a lot of the work required was just copying classes and changing some strings in them 
+i made a lot of progress and the app is fully *functional now.* but with a lot of bugs and unimplemented features  
+it has been an awesome learning experience, even though a lot of the work required was just copying classes and changing some strings in them
 (to replicate tachiyomi's functionality for a different kind of medium), which was extremely tedious and annoying.  
 i learned a lot about kotlin and android and all in all it's actually quite fun! (i even get to watch anime on my phone, for testing purposes of course)  
 i gave my fork the name "Tachiyomi-MI" (tachi yomi = standing reading; mi = watching). yeah it's not really a good name but it kinda(?) makes sense? idk  
