@@ -1,5 +1,5 @@
-baseURL: "https://jmir.ml/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: jmir.ml
+baseURL: "https://jmir.xyz/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: jmir.xyz
 paginate: 5
 theme: PaperMod
 
@@ -46,7 +46,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "jmir.ml - jmir's personal website"
+    description: "jmir.xyz - jmir's personal website"
     author: jmir
     # author: ["Me", "You"] # multiple authors
 
@@ -101,7 +101,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/jmir1/jmir.ml/tree/main/content"
+        URL: "https://github.com/jmir1/jmir.xyz/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

@@ -22,7 +22,7 @@ This is a list of some of my more interesting open source projects
 
 ## osu!preview
 
-[Demo](https://osu-preview.jmir.ml/preview?beatmapId=889634)
+[Demo](https://osu-preview.jmir.xyz/preview?beatmapId=889634)
 
 [GitHub repository](https://github.com/jmir1/osu-preview)
 
